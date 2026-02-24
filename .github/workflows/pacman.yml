@@ -1,21 +1,21 @@
 name: Generate Pacman Contribution Graph
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
+      - name: Generate Pacman
         uses: Platane/snk@v3
         with:
           github_user_name: Baki84
-          pacman: true
-          outputs: dist/pacman-contribution-graph.svg
+          outputs: |
+            dist/pacman-contribution-graph.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3

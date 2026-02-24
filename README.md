@@ -9,6 +9,10 @@
 ⚡ Fun fact: I enjoy building scalable backend systems and exploring how networks work behind the scenes  
 
 
+
+## 👾 Contribution Pac-Man
+
+![Pacman animation](https://raw.githubusercontent.com/Baki84/Baki84/output/pacman-contribution-graph.svg)
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-shah-bb2809374) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Friendly-Pension2589) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shashankshah261@gmail.com) 
